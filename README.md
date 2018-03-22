@@ -1,6 +1,6 @@
 # CdaMobileApp
 
-This is a basic template for creating apps themed for the [Xamarin CDAs]().
+This is a basic template for creating apps themed for the [Xamarin CDAs](). The app that is created is a Xamarin Forms app that targets iOS, Android and UWP, and has a CDA themed splash screen and icon.
 
 This repo contains an extension for VS for Mac and a NuGet for use with `dotnet new`.
 
@@ -19,3 +19,4 @@ Once installed you can create a new project using:
 ```bash
 dotnet new CdaMobileApp -o <Your project name>
 ```
+
