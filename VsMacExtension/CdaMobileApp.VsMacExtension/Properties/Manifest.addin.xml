@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+    <Runtime>
+    </Runtime>
+    
+    <Extension path="/MonoDevelop/Ide/ProjectTemplateCategories/other/">
+        <Category id="CDA" name="CDA"/>
+    </Extension>
+
+    <Extension path="/MonoDevelop/Ide/Templates">
+      <Template
+         id="CdaMobileApp.CSharp"
+         _overrideDescription="Creates a new Xamarin Forms app themed for Xamarin CDAs"
+         path="Templates/CdaMobileApp.nupkg"
+         category="other/CDA"
+         icon="res:CdaMobileApp.VsMacExtension.Icons.project-icon.png"/>
+    </Extension>
+</ExtensionModel>

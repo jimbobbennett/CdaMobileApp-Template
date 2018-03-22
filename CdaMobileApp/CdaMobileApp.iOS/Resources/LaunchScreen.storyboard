@@ -20,7 +20,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="243" translatesAutoresizingMaskIntoConstraints="NO" image="ic_bitmicrosoft.png">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="243" translatesAutoresizingMaskIntoConstraints="NO" image="ic_bitmicrosoft">
                                 <rect key="frame" x="70" y="295" width="274" height="146"/>
                                 <constraints>
                                     <constraint id="246" firstItem="243" firstAttribute="height" constant="146"/>
@@ -42,9 +42,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Icon-76.png" width="76" height="76"/>
-        <image name="Icon-Small-40.png" width="40" height="40"/>
-        <image name="Icon-Small.png" width="29" height="29"/>
         <image name="ic_contacts_selected.png" width="28" height="20"/>
         <image name="ic_contacts.png" width="28" height="20"/>
         <image name="ic_nearby.png" width="28" height="24"/>
@@ -54,6 +51,7 @@
         <image name="ic_bitmicrosoft.png" width="400" height="240"/>
         <image name="ic_bitcity.png" width="300" height="300"/>
         <image name="cda_background.jpg" width="1000" height="333"/>
+        <image name="ic_bitmicrosoft" width="400" height="240"/>
     </resources>
     <color key="tintColor" colorSpace="calibratedRGB" red="0.62745098039215685" green="0" blue="0.54117647058823526" alpha="1"/>
 </document>

@@ -114,40 +114,31 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ic_bitmicrosoft.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\ic_bitmicrosoft%402x.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\ic_bitmicrosoft%403x.png" />
-  </ItemGroup>
-  <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small2x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small%403x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small3x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Notification%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Notification2x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Notification%403x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Notification3x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-40%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-402x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-40%403x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-403x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-60%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-602x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-60%403x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-603x.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Notification.png">
@@ -159,17 +150,24 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-40.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\iTunesArtwork%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\iTunesArtwork2x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-83.5%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-83.52x.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-76.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-76%402x.png">
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-762x.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft.png" />
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft2x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft3x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets.xcassets\ic_bitmicrosoft.imageset\" />
   </ItemGroup>
 </Project>

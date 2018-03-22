@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jim Bennett",
+  "classifications": [],
+  "description": "Creates a new Xamarin Forms app themed for the Xamarin CDAs.",
+  "name": "CDA Forms Mobile app",
+  "defaultName": "CdaMobileApp",
+  "identity": "CdaMobileApp.CSharp",
+  "groupIdentity": "CdaMobileApp",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "shortName": "CdaMobileApp",
+  "sourceName": "CdaMobileApp",
+  "guids": [
+    "{7390BE26-4895-4BCB-8597-717E7099C32A}",
+    "{A5028A34-50BD-441B-AFAB-EA4E8D5D6575}",
+    "{9E63CDAD-F4F3-4083-8B95-0D3DEC331C8D}"
+  ],
+  "primaryOutputs": [
+    {
+      "path": "CdaMobileApp/CdaMobileApp.csproj"
+    },
+    {
+      "path": "CdaMobileApp.Droid/CdaMobileApp.Droid.csproj"
+    },
+    {
+      "path": "CdaMobileApp.iOS/CdaMobileApp.iOS.csproj"
+    }
+  ]
+}

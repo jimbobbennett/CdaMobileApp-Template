@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CdaMobileApp.Mac</id>
+    <version>1.0.1</version>
+    <description>
+      Creates a new Xamarin Forms app themed for the Xamarin CDAs.
+    </description>
+    <authors>Jim Bennett</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <title>CDA themed Xamarin app</title>
+    <summary>This package is used by dotnet new to create a new CDA themed Xamarin Forms app for iOS, Android and UWP.</summary>
+    <projectUrl>https://github.com/jimbobbennett/CdaMobileApp-Template</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/jimbobbennett/CdaMobileApp-Template/master/CdaMobileApp/.template.config/project-icon.png</iconUrl>
+    <tags>CDA template Xamarin Forms iOS Android UWP</tags>
+  </metadata>
+  <files>
+    <file src="./CdaMobileApp/**" target="content/CdaMobileApp" exclude="./**/packages/**;**/bin/**;**/obj/**;**/.vs/**;**/*.user;./CdaMobileApp/.template.config/template.json;"/>
+    <file src="./VsMacExtension/template.json" target="content/CdaMobileApp/.template.config/template.json"/>
+    <file src="./CdaMobileApp.sln" target="content/CdaMobileApp.sln"/>
+  </files>
+</package>
