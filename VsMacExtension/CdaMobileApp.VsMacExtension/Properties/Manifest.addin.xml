@@ -12,7 +12,7 @@
          id="CdaMobileApp.CSharp"
          _overrideDescription="Creates a new Xamarin Forms app themed for Xamarin CDAs"
          path="Templates/CdaMobileApp.nupkg"
-         category="other/CDA"
+         category="multiplat/app/forms"
          icon="res:CdaMobileApp.VsMacExtension.Icons.project-icon.png"/>
     </Extension>
 </ExtensionModel>

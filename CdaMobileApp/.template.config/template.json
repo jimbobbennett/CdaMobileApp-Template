@@ -9,7 +9,8 @@
   "groupIdentity": "CdaMobileApp",
   "tags": {
     "language": "C#",
-    "type": "project"
+    "type": "project",
+    "vsmac-category": "multiplat/app/forms"
   },
   "shortName": "CdaMobileApp",
   "sourceName": "CdaMobileApp",
