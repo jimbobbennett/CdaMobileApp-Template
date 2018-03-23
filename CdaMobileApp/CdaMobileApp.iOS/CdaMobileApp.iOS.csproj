@@ -162,10 +162,18 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-762x.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft.png" />
-    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft2x.png" />
-    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft3x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft2x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\ic_bitmicrosoft.imageset\ic_bitmicrosoft3x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets.xcassets\ic_bitmicrosoft.imageset\" />
