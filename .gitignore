@@ -299,6 +299,5 @@ __pycache__/
 *.xsd.cs
 
 *.db
-**/*.DS_Store
 **/.DS_Store
 **/*.db
